@@ -138,3 +138,97 @@ git push bhagat1
 ls
 git init
 git push
+ls
+cd bhagat
+ls
+cd
+cd bhagat1
+git init
+touch >>bhagat1
+touch --help
+hi 
+git 
+git init
+git add .
+git rm --cached bhagat
+-f
+ls
+cd bhagat
+ls
+cd /
+cd ..
+cd 
+ls
+git init
+git commit -m new1
+git log
+git push
+git remote add git remote add origin https://github.com/rakesh6867/bhagat.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/rakesh6867/bhagat.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/rakesh6867/bhagat.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/rakesh6867/bhagat.git
+git branch -M main
+git push -u origin main
+git clear
+clear
+echo "# bhagat" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rakesh6867/bhagat.git
+git push -u origin main
+git push
+git --set-upstream origin main
+git log
+git push
+ls
+git add .
+jai
+ls
+git add jai .
+git add .jai 
+git add 
+git add . "jai"
+git sing
+git log
+git push
+git push --set-upstream origin main
+git log
+git sign
+git push
+git push --set-upstream origin main
+git push
+git push --set-upstream origin main/bhagat
+https://github.com/rakesh6867/bhagat.git
+git push
+git push --set-upstream origin main
+git push
+git push --set-upstream origin main
+AWSSecretKey=g4/zXHLzirbyBWqOo6b+JzkScnl1B5nbuWL4utqn
+ls
+cd bhagat
+ls
+git init
+git log
+cd ..
+git log
+git push
+git push --set-upstream origin main
+git puahs
+git push
+git push --set-upstream origin main
+ssh -i "jaikey.pem" ubuntu@52.90.65.11
+git push
+git push -set-upstream origin main
+ls
+git push 
+git push --set-upstream origin main
+git push 
+git push --set-upstream origin main
